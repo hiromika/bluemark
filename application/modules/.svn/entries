@@ -1,0 +1,113 @@
+10
+
+dir
+63
+http://svn.bamasejahtera.com/svn/e-arsip_djbm/application/modules
+http://svn.bamasejahtera.com/svn/e-arsip_djbm
+
+
+
+2016-08-05T01:37:40.275213Z
+63
+ardi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9e17c390-7b4c-4642-8b5e-92919078b45a
+
+role_navigation
+dir
+
+references
+dir
+
+module
+dir
+
+themes
+dir
+
+survey_data
+dir
+
+welcome
+dir
+
+contoh.zip
+file
+
+
+
+
+2016-05-14T21:20:32.422738Z
+8da41b62171f42002fbe469379dfa741
+2016-05-14T04:18:12.633219Z
+1
+ardi
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+226680
+
+manage_themes
+dir
+
+module_permission
+dir
+
+reports
+dir
+
+maps
+dir
+
+notifikasi
+dir
+
+broadcast
+dir
+
+module_navigation
+dir
+
+configuration
+dir
+
+role_permission
+dir
+
+content_type
+dir
+
+user
+dir
+

@@ -1,0 +1,11 @@
+.user-icon-add {
+    background: url("../images/add.png");
+}
+
+.user-icon-edit{
+    background: url("../images/edit.png");
+}
+
+.user-icon-delete {
+    background: url("../images/delete.png");
+}

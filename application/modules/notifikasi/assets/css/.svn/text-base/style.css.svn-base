@@ -1,0 +1,88 @@
+.user-icon-add {
+    background: url("../images/add.png");
+}
+
+.user-icon-edit{
+    background: url("../images/edit.png");
+}
+
+.user-icon-delete {
+    background: url("../images/delete.png");
+}
+
+
+/* Report Style */
+.frm-adv-search-wrapper,.search-result-wrapper {
+    margin-bottom: 5px;
+}
+
+.search-result-wrapper {
+    padding:10px;
+}
+
+.col-xs-4 {
+    width: 25%;
+    display: inline-block;
+    margin:5px;
+}
+
+.col-xs-3 {
+    width: 15%;
+    display: inline-block;
+    margin:5px;
+}
+
+.col-xs-2 {
+    width: 10%;
+    display: inline-block;
+    margin:5px;
+}
+
+.col-xs-3 .checkbox {
+    display: inline-block;
+    margin-left: -20px;
+    margin-right: 10px;
+}
+
+.btn-submit-report {
+    background: #B74635;
+    border: 5px solid #fff;
+    border-radius: 0;
+    box-shadow: none !important;
+    color: #fff !important;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+    padding:5px 10px;
+    position: relative;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    transition: background-color 0.15s ease 0s, border-color 0.15s ease 0s, opacity 0.15s ease 0s;
+    vertical-align: middle;
+}
+
+.btn-submit-report:active {
+    background: #303030;
+}
+
+.black-text{
+    color: #666 !important;
+}
+
+blockquote p{
+    font-size: 15px;
+}
+
+.bitbig{
+    margin-bottom: 10px;
+    font-size: 96%;
+}
+
+.form-wrapper{
+    padding: 10px 20px 30px;
+}
+
+.comment-author{
+    color: #177bbb;
+    margin-bottom: 11px;
+    font-size: 90%;
+}

@@ -1,0 +1,285 @@
+# Webalizer V2.21-02 Incremental Data - 09/30/2017 17:53:14
+2017 9 30 17 53 14
+134 131 4 63 12 3 5338065 49 3 0
+1 2 115 3 30
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 1413 1 0 0
+117 116 4462635 1 48 2
+0 0 0 0 0 0
+14 14 551397 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 322620 1 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+14 14 551397 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 1413 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 322620 0
+0 0 0 0
+0 0 0 0
+115 115 4453158 46
+2 1 9477 2
+0 0 0 0
+0 0 0 0
+0
+0
+0
+131
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/finance/saveAkun
+0 2 0 372 0 0
+/
+0 4 0 35304 2 0
+/themes/default3/js/app.min.js
+0 1 0 9668 0 0
+/assets/finance/js/jquery.BlockUI.js
+0 11 0 286968 0 0
+/themes/default3/css/AdminLTE.min.css
+0 2 0 173162 0 0
+/themes/default3/js/jQuery/jquery-ui.js
+0 1 0 520349 0 0
+/themes/default3/css/metro/easyui.css
+0 1 0 57943 0 0
+/themes/default3/js/chartjs/Chart.min.js
+0 1 0 139629 0 0
+/themes/default3/js/datatables/dataTables.bootstrap.min.js
+0 1 0 2312 0 0
+/finance/m_kator
+0 2 0 714 0 0
+/logo.ico
+0 1 0 64749 0 0
+/themes/default3/js/easyui/datagrid-filter.js
+0 1 0 22107 0 0
+/themes/default3/js/daterangepicker/daterangepicker.js
+0 1 0 69400 0 0
+/themes/default3/js/owl-carousel/grabbing.png
+1 1 0 355 0 0
+/assets/finance/js/script.js
+0 11 0 3509 0 0
+/themes/default3/fonts/font-awesome/fonts/fontawesome-webfont.eot
+0 1 0 76468 0 0
+/themes/default3/fonts/ionicons/fonts/ionicons.ttf
+0 1 0 188769 0 0
+/themes/default3/fonts/font-awesome/css/font-awesome.min.css
+0 2 0 58346 0 0
+/themes/default3/fonts/glyphicons-halflings-regular.eot
+0 1 0 20390 0 0
+/finance/dataAKun/101
+0 2 0 360 0 0
+/finance/dataAKun/102
+0 2 0 2686 0 0
+/finance/dataAKun/103
+0 2 0 360 0 0
+/finance/dataAKun/104
+0 2 0 360 0 0
+/themes/default3/js/bootstrap/bootstrap.min.js
+0 2 0 72400 0 0
+/themes/default3/js/jquery.maskedinput.min.js
+0 1 0 3821 0 0
+/themes/default3/img/bg2.jpg
+1 1 0 1289466 0 0
+/assets/finance/css/style.css
+0 11 0 14399 0 0
+/themes/default3/css/style.css
+0 2 0 5738 0 0
+/finance/master
+0 2 0 79990 0 0
+/themes/default3/fonts/font-awesome/fonts/fontawesome-webfont.woff2
+0 1 0 72020 0 0
+/themes/default3/fonts/ionicons/css/ionicons.min.css
+0 2 0 103052 0 0
+/themes/default3/img/bg1.jpg
+1 1 0 228246 0 0
+/finance/rekap
+0 1 0 12216 0 0
+/themes/default3/js/datatables/dataTables.bootstrap.css
+0 1 0 9070 0 0
+/finance/akun_detail
+0 2 0 41312 0 0
+/login
+0 1 0 978 0 0
+/finance/m_client
+0 2 0 642 0 0
+/themes/default3/js/easyui/jquery.easyui.min.js
+0 1 0 391126 0 0
+/finance
+0 4 0 116104 0 1
+/finance/finance/deleteAkun
+0 2 0 372 0 0
+/themes/default3/js/owl-carousel/owl.transitions.css
+0 2 0 9434 0 0
+/themes/default3/js/bootstrap-datetimepicker.min.js
+0 1 0 38204 0 0
+/docs/sample2.pdf
+0 1 37159488 321207 0 0
+/themes/default3/js/datatables/jquery.dataTables.min.js
+0 1 0 80131 0 0
+/themes/default3/css/_all-skins.min.css
+0 1 0 42120 0 0
+/themes/default3/js/daterangepicker/daterangepicker.css
+0 1 0 8374 0 0
+/finance/m_kom
+0 2 0 2732 0 0
+/finance/index
+0 2 0 58052 0 0
+/finance/m_akun
+0 6 0 3723 0 0
+/finance/total_Akun/101
+0 2 0 360 0 0
+/finance/total_Akun/102
+0 2 0 412 0 0
+/themes/default3/js/owl-carousel/owl.carousel.css
+0 2 0 3432 0 0
+/finance/total_Akun/103
+0 2 0 360 0 0
+/finance/total_Akun/104
+0 2 0 360 0 0
+/themes/default3/js/slimScroll/jquery.slimscroll.min.js
+0 1 0 6478 0 0
+/themes/default3/js/owl-carousel/owl.carousel.min.js
+0 2 0 48278 0 0
+/themes/default3/js/jQuery/jQuery-2.1.4.min.js
+0 2 0 169190 0 0
+/themes/default3/css/bootstrap-datetimepicker.min.css
+0 1 0 8012 0 0
+/themes/default3/fonts/glyphicons-halflings-regular.woff2
+0 1 0 18287 0 0
+/themes/default3/js/daterangepicker/moment.min.js
+0 1 0 46894 0 0
+/themes/default3/css/bootstrap.min.css
+0 2 0 245568 0 0
+/themes/default3/js/owl-carousel/owl.theme.css
+0 2 0 3810 0 0
+/themes/default3/js/sparkline/jquery.sparkline.min.js
+0 1 0 43496 0 0
+# End Of Table - urls
+# -sites- (monthly)
+37-9-113-68.spider.yandex.com
+0 1 0 1413 0 0
+-
+broadband-188-32-129-131.moscow.rt.ru
+0 14 14 551397 1 1504673196
+/
+fm-dyn-118-136-193-84.fast.net.id
+0 117 116 4462635 2 1504561156
+/
+87-250-224-33.spider.yandex.com
+0 2 1 322620 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+87-250-224-33.spider.yandex.com
+0 2 1 322620 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://erp.bamasejahtera.com/finance/akun_detail
+1 24
+- (Direct Request)
+0 4
+http://yandex.ru/clck/jsredir
+0 1
+http://erp.bamasejahtera.com/finance/rekap
+1 4
+http://erp.bamasejahtera.com/finance/master
+1 24
+http://erp.bamasejahtera.com/finance
+1 17
+http://erp.bamasejahtera.com/finance/index
+1 8
+http://erp.bamasejahtera.com/themes/default3/fonts/font-awesome/css/font-awesome.min.css
+1 1
+http://erp.bamasejahtera.com/
+1 48
+http://erp.bamasejahtera.com/themes/default3/js/owl-carousel/owl.carousel.css
+1 1
+http://erp.bamasejahtera.com/themes/default3/css/bootstrap.min.css
+1 1
+http://erp.bamasejahtera.com/themes/default3/fonts/ionicons/css/ionicons.min.css
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 117
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; MASPJS)
+0 14
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

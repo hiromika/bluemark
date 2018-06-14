@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/e-arsip_djbm/!svn/ver/1/system/libraries/Cache/drivers
+END
+Cache_memcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/e-arsip_djbm/!svn/ver/1/system/libraries/Cache/drivers/Cache_memcached.php
+END
+Cache_dummy.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/e-arsip_djbm/!svn/ver/1/system/libraries/Cache/drivers/Cache_dummy.php
+END
+Cache_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/e-arsip_djbm/!svn/ver/1/system/libraries/Cache/drivers/Cache_file.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/e-arsip_djbm/!svn/ver/1/system/libraries/Cache/drivers/index.html
+END
+Cache_apc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/e-arsip_djbm/!svn/ver/1/system/libraries/Cache/drivers/Cache_apc.php
+END
