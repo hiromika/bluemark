@@ -1,1 +1,0 @@
-insert into bama_user (USER_LOGIN, USER_PWD, USER_FULLNAME, USER_STATUS, ROLE_ID) values ('adiputra','123123','adiputra','1','1');insert into bama_user (USER_LOGIN, USER_PWD, USER_FULLNAME, USER_STATUS, ROLE_ID) values ('adiputra123','123123','adiputra123','1','1');
